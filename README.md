@@ -1,4 +1,4 @@
-# Sudoku Game - Java Swing
+# Sudoku - Java Swing
 
 Este projeto é uma implementação do clássico jogo **Sudoku** desenvolvida em Java, utilizando a biblioteca **Swing** para a interface gráfica. O sistema conta com geração dinâmica de tabuleiros, diferentes níveis de dificuldade e uma lógica de validação em tempo real.
 
@@ -43,3 +43,4 @@ O código está organizado seguindo princípios de Programação Orientada a Obj
 3.  No menu inicial, selecione a dificuldade.
 4.  **Para preencher uma célula**:
     * Clique em um dos números no painel inferior (1 a 9).
+
